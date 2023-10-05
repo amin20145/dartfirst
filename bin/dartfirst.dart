@@ -1,4 +1,4 @@
 void main() {
-  String data = "aku manusia";
+  String data = "Nama Saya Amin";
   print(data);
 }
